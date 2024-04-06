@@ -5,7 +5,6 @@ import { getImage } from "../../utils/utils";
 const Portfolio = () => {
     return (
         <section id="portfolio">
-        <h2 className="title">Portfolio</h2>
         <div className="container">
             <div className="item-1">
                 <img src={getImage("JATEscreenshot.png")} alt="just-another-text-editor-image"/>
