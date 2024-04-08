@@ -1,9 +1,11 @@
 import React from 'react';
 
+import garrettGutierrez from '../../../assets/Garrett-Gutierrez.pdf' 
+
 const Resume = () => {
  return (
  <div>
- <iframe src="../public/Garrett-Gutierrez.pdf" width="100%" height="800px" />
+ <iframe src={garrettGutierrez} width="100%" height="800px" />
  </div>
  );
 };
