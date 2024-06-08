@@ -1,6 +1,6 @@
 import React from 'react';
 
-import garrettGutierrez from '../../../assets/Garrett-Gutierrez.pdf' 
+import garrettGutierrez from '../../../assets/Garrett Gutierrez.pdf' 
 
 const Resume = () => {
  return (
